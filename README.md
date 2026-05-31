@@ -1,0 +1,108 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d0d28,7c3aed,06b6d4&height=200&section=header&text=NANOBOY&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Jesús%20Cornelio%20·%20Puerto%20Rico%20%2F%20LATAM&descSize=18&descColor=06b6d4&descAlignY=62" width="100%"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=800&color=7C3AED&center=true&vCenter=true&width=720&lines=Arquitecto+de+Sistemas+IA;Certified+MCP+Engineer;Hyperfocus+%E2%86%92+Ejecuci%C3%B3n+Absoluta;Soberan%C3%ADa+Digital+o+Nada;Si+no+existe+y+lo+necesito+%E2%86%92+lo+construyo)](https://github.com/365diascollaboration-prog)
+
+</div>
+
+---
+
+```bash
+$ whoami
+```
+
+```
+ALIAS      →  Nanoboy
+NOMBRE     →  Jesús Cornelio
+ORIGEN     →  Puerto Rico / LATAM
+MODO       →  Hyperfocus — sin interruptor de apagado
+CERT       →  Model Context Protocol (MCP) · IA Autónoma
+FILOSOFÍA  →  Soberanía digital. Cero dependencia de marca.
+LEMA       →  "Si no existe y lo necesito, lo construyo."
+```
+
+---
+
+```bash
+$ cat manifiesto.txt
+```
+
+> Me cansé de que el software mediocre me pusiera límites.
+> Aprendí a hackear la realidad digital.
+> Ahora construyo las herramientas que los demás solo sueñan con comprar.
+> Cada fallo de sistema es un nuevo estándar en mi propia infraestructura.
+>
+> No sigo tutoriales. Los destruyo construyendo lo que enseñan.
+> No gestiono reuniones. Ejecuto arquitecturas.
+> No pido permiso al ecosistema. Lo reescribo.
+
+---
+
+```bash
+$ ls stack/ --power
+```
+
+| Capa | Tecnología | Estado |
+|------|------------|--------|
+| **Video IA** | HyperFrames · GSAP · FFmpeg | `PRODUCCIÓN` |
+| **Agentes IA** | Claude Code · MCP · Antigraviti | `AUTÓNOMO` |
+| **Backend** | Python · Node.js | `SOBERANO` |
+| **DevOps** | Git · GitHub CLI · OneDrive Sync | `DISTRIBUIDO` |
+| **LLM Stack** | Hugging Face · Anthropic API | `ACTIVO` |
+
+---
+
+```bash
+$ ls arquitecturas/ --key
+```
+
+**[`GERENT365`](https://github.com/365diascollaboration-prog)** — Sistema de producción de video IA end-to-end. HyperFrames + GSAP + FFmpeg. De idea a MP4 en menos de 15 minutos. Sin Adobe. Sin suscripciones.
+
+**[`KITUROTO`](https://github.com/365diascollaboration-prog)** — Agente autónomo de gestión GitHub. Opera como miembro del equipo: maneja repos, issues y tareas sin supervisión humana.
+
+**`KLYPPING`** — Arquitectura activa — clasificado hasta lanzamiento.
+
+**[`RECUPERADOR DE ARCHIVOS`](https://github.com/365diascollaboration-prog/recuperador-archivos)** — Python puro. Recuperación de archivos borrados en Windows sin dependencias externas. La herramienta que necesitaba costaba $89. La mía es gratis.
+
+**[`365 STUDIO`](https://github.com/365diascollaboration-prog/365-studio)** — Kit open source de producción de video para LATAM. HyperFrames + SFX neurológica + FFmpeg. Documentado en español. Porque también merecemos herramientas en nuestro idioma.
+
+---
+
+```bash
+$ github --stats
+```
+
+<div align="center">
+
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=365diascollaboration-prog&show_icons=true&bg_color=07071a&title_color=7c3aed&icon_color=06b6d4&text_color=f1f5f9&border_color=7c3aed&border_radius=10&count_private=true&hide_border=false"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=365diascollaboration-prog&layout=compact&bg_color=07071a&title_color=7c3aed&text_color=f1f5f9&border_color=7c3aed&border_radius=10&langs_count=6"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=365diascollaboration-prog&theme=transparent&background=07071a&ring=7c3aed&fire=06b6d4&currStreakLabel=f1f5f9&sideLabels=475569&dates=475569&border=7c3aed&border_radius=10"/>
+
+</div>
+
+---
+
+```bash
+$ cat desafio.txt
+```
+
+> Si llegaste hasta aquí esperando un dev normal que pide trabajo con humildad,
+> equivocaste el perfil.
+>
+> Si llegaste porque reconoces la arquitectura detrás de lo que ves —
+> bienvenido. Aquí se construye en serio.
+>
+> **→ Revisa los repos. Clona. Ejecuta. Entiende.**
+
+<div align="center">
+
+[![YouTube](https://img.shields.io/badge/▶_@365diascollaboration-07071a?style=for-the-badge&logo=youtube&logoColor=ff0000)](https://youtube.com/@365diascollaboration)
+[![Website](https://img.shields.io/badge/🌐_nanoboypr.com-07071a?style=for-the-badge&logoColor=06b6d4)](https://nanoboypr.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d0d28,7c3aed,06b6d4&height=120&section=footer" width="100%"/>
+
+</div>
