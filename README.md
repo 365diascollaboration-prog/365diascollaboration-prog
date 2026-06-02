@@ -100,7 +100,7 @@ $ cat desafio.txt
 
 <div align="center">
 
-[![YouTube](https://img.shields.io/badge/▶_@365diascollaboration-07071a?style=for-the-badge&logo=youtube&logoColor=ff0000)](https://youtube.com/@365diascollaboration)
+[![YouTube](https://img.shields.io/badge/▶_@365collaboration-07071a?style=for-the-badge&logo=youtube&logoColor=ff0000)](https://youtube.com/@365collaboration)
 [![Website](https://img.shields.io/badge/🌐_nanoboypr.com-07071a?style=for-the-badge&logoColor=06b6d4)](https://nanoboypr.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0d0d28,7c3aed,06b6d4&height=120&section=footer" width="100%"/>
