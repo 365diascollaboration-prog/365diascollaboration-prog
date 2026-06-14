@@ -58,7 +58,13 @@ $ ls repos/ --arquitecturas
 ```
 
 <!-- REPOS-START -->
-_Cargando repositorios..._
+| Proyecto | Stack | ⭐ | Descripción |
+|----------|-------|----|-------------|
+| **[365-studio](https://github.com/365diascollaboration-prog/365-studio)** | `🌐 HTML` | 1 | — |
+| **[recuperador-archivos](https://github.com/365diascollaboration-prog/recuperador-archivos)** | `🐍 Python` | 1 | Herramientas gratuitas para recuperar archivos borrados del  |
+| **[nano-huggingface](https://github.com/365diascollaboration-prog/nano-huggingface)** | `📦 —` | 1 | — |
+
+<sub>🤖 Auto-actualizado: 2026-06-14 21:11 UTC</sub>
 <!-- REPOS-END -->
 
 ---
@@ -68,7 +74,13 @@ $ ls colaboraciones/ --open-source
 ```
 
 <!-- COLLAB-START -->
-_Cargando colaboraciones externas..._
+| Repositorio Externo | Pull Request | Merged |
+|---------------------|--------------|--------|
+| **[ishandutta2007/CSSFrameworks2024](https://github.com/ishandutta2007/CSSFrameworks2024)** | [Add UnoCSS, StyleX, and Panda CSS](https://github.com/ishandutta2007/CSSFrameworks2024/pull/2) | `2026-06-14` |
+| **[fathah/hermes-desktop](https://github.com/fathah/hermes-desktop)** | [i18n(es): complete Spanish LATAM translation to 100%](https://github.com/fathah/hermes-desktop/pull/516) | `2026-06-02` |
+| **[fathah/hermes-desktop](https://github.com/fathah/hermes-desktop)** | [docs: add Spanish LATAM translation (README.es-LATAM.md](https://github.com/fathah/hermes-desktop/pull/514) | `2026-06-02` |
+
+<sub>🤖 Auto-actualizado: 2026-06-14 21:11 UTC</sub>
 <!-- COLLAB-END -->
 
 ---
