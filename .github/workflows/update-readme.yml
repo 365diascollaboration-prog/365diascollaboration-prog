@@ -18,16 +18,13 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: actions/setup-python@v5
-        with:
-          python-version: '3.11'
-
-      - run: pip install requests
+      - name: Instalar dependencias
+        run: pip3 install requests
 
       - name: Ejecutar script de actualización
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python scripts/update_readme.py
+        run: python3 scripts/update_readme.py
 
       - name: Commit si hubo cambios
         run: |
