@@ -54,18 +54,22 @@ $ ls stack/ --power
 ---
 
 ```bash
-$ ls arquitecturas/ --key
+$ ls repos/ --arquitecturas
 ```
 
-**[`GERENT365`](https://github.com/365diascollaboration-prog)** — Sistema de producción de video IA end-to-end. HyperFrames + GSAP + FFmpeg. De idea a MP4 en menos de 15 minutos. Sin Adobe. Sin suscripciones.
+<!-- REPOS-START -->
+_Cargando repositorios..._
+<!-- REPOS-END -->
 
-**[`KITUROTO`](https://github.com/365diascollaboration-prog)** — Agente autónomo de gestión GitHub. Opera como miembro del equipo: maneja repos, issues y tareas sin supervisión humana.
+---
 
-**`KLYPPING`** — Arquitectura activa — clasificado hasta lanzamiento.
+```bash
+$ ls colaboraciones/ --open-source
+```
 
-**[`RECUPERADOR DE ARCHIVOS`](https://github.com/365diascollaboration-prog/recuperador-archivos)** — Python puro. Recuperación de archivos borrados en Windows sin dependencias externas. La herramienta que necesitaba costaba $89. La mía es gratis.
-
-**[`365 STUDIO`](https://github.com/365diascollaboration-prog/365-studio)** — Kit open source de producción de video para LATAM. HyperFrames + SFX neurológica + FFmpeg. Documentado en español. Porque también merecemos herramientas en nuestro idioma.
+<!-- COLLAB-START -->
+_Cargando colaboraciones externas..._
+<!-- COLLAB-END -->
 
 ---
 
