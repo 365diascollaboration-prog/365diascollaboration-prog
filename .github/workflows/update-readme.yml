@@ -33,4 +33,5 @@ jobs:
           git config user.email "365diascollaboration@gmail.com"
           git add README.md
           git diff --staged --quiet || git commit -m "chore: auto-update repos y colaboraciones"
+          git pull --rebase origin main
           git push
