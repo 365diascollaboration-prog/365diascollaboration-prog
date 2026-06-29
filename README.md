@@ -61,11 +61,12 @@ $ ls repos/ --arquitecturas
 | Proyecto | Stack | ⭐ | Descripción |
 |----------|-------|----|-------------|
 | **[nanotech-agents](https://github.com/365diascollaboration-prog/nanotech-agents)** | `📦 —` | 1 | Ultra-powerful AI agents built from real workflows. Not for  |
+| **[ig-latam-mcp](https://github.com/365diascollaboration-prog/ig-latam-mcp)** | `🐍 Python` | 0 | — |
 | **[365-studio](https://github.com/365diascollaboration-prog/365-studio)** | `🌐 HTML` | 1 | — |
 | **[recuperador-archivos](https://github.com/365diascollaboration-prog/recuperador-archivos)** | `🐍 Python` | 1 | Herramientas gratuitas para recuperar archivos borrados del  |
 | **[nano-huggingface](https://github.com/365diascollaboration-prog/nano-huggingface)** | `📦 —` | 1 | — |
 
-<sub>🤖 Auto-actualizado: 2026-06-22 11:36 UTC</sub>
+<sub>🤖 Auto-actualizado: 2026-06-29 10:23 UTC</sub>
 <!-- REPOS-END -->
 
 ---
@@ -77,16 +78,16 @@ $ ls colaboraciones/ --open-source
 <!-- COLLAB-START -->
 | Repositorio Externo | Pull Request | Merged |
 |---------------------|--------------|--------|
+| **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** | [fix: guard os.killpg/getpgid with hasattr for Windows c](https://github.com/mvanhorn/last30days-skill/pull/624) | `2026-06-25` |
+| **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** | [fix: add exit 0 to check-config.sh to prevent hook erro](https://github.com/mvanhorn/last30days-skill/pull/623) | `2026-06-25` |
+| **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** | [fix: make pre-research warning runtime-agnostic](https://github.com/mvanhorn/last30days-skill/pull/620) | `2026-06-25` |
+| **[vectorize-io/hindsight](https://github.com/vectorize-io/hindsight)** | [fix(claude-code): use realpath for directoryBankMap sym](https://github.com/vectorize-io/hindsight/pull/2324) | `2026-06-23` |
 | **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** | [examples: add 6 new survivors + platform-native referen](https://github.com/DietrichGebert/ponytail/pull/109) | `2026-06-18` |
 | **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** | [docs: add Spanish (LATAM) translation — README.es.md](https://github.com/DietrichGebert/ponytail/pull/110) | `2026-06-18` |
 | **[fathah/hermes-desktop](https://github.com/fathah/hermes-desktop)** | [fix: model picker in chat no longer overwrites the glob](https://github.com/fathah/hermes-desktop/pull/713) | `2026-06-17` |
 | **[fathah/hermes-desktop](https://github.com/fathah/hermes-desktop)** | [i18n(es-LATAM): sync Spanish translation with latest RE](https://github.com/fathah/hermes-desktop/pull/671) | `2026-06-17` |
-| **[ishandutta2007/Awesome-Expoential-Laws](https://github.com/ishandutta2007/Awesome-Expoential-Laws)** | [feat: add Cooper's Law, Stevenson's Law, and Eroom's La](https://github.com/ishandutta2007/Awesome-Expoential-Laws/pull/2) | `2026-06-15` |
-| **[ishandutta2007/CSSFrameworks2024](https://github.com/ishandutta2007/CSSFrameworks2024)** | [Add UnoCSS, StyleX, and Panda CSS](https://github.com/ishandutta2007/CSSFrameworks2024/pull/2) | `2026-06-14` |
-| **[fathah/hermes-desktop](https://github.com/fathah/hermes-desktop)** | [i18n(es): complete Spanish LATAM translation to 100%](https://github.com/fathah/hermes-desktop/pull/516) | `2026-06-02` |
-| **[fathah/hermes-desktop](https://github.com/fathah/hermes-desktop)** | [docs: add Spanish LATAM translation (README.es-LATAM.md](https://github.com/fathah/hermes-desktop/pull/514) | `2026-06-02` |
 
-<sub>🤖 Auto-actualizado: 2026-06-22 11:36 UTC</sub>
+<sub>🤖 Auto-actualizado: 2026-06-29 10:23 UTC</sub>
 <!-- COLLAB-END -->
 
 ---
