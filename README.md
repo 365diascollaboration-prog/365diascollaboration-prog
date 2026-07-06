@@ -66,7 +66,7 @@ $ ls repos/ --arquitecturas
 | **[recuperador-archivos](https://github.com/365diascollaboration-prog/recuperador-archivos)** | `🐍 Python` | 1 | Herramientas gratuitas para recuperar archivos borrados del  |
 | **[nano-huggingface](https://github.com/365diascollaboration-prog/nano-huggingface)** | `📦 —` | 1 | — |
 
-<sub>🤖 Auto-actualizado: 2026-06-29 10:23 UTC</sub>
+<sub>🤖 Auto-actualizado: 2026-07-06 09:56 UTC</sub>
 <!-- REPOS-END -->
 
 ---
@@ -78,6 +78,7 @@ $ ls colaboraciones/ --open-source
 <!-- COLLAB-START -->
 | Repositorio Externo | Pull Request | Merged |
 |---------------------|--------------|--------|
+| **[iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi)** | [feat(i18n): add complete Spanish (es-ES) translation — ](https://github.com/iOfficeAI/AionUi/pull/3402) | `2026-07-02` |
 | **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** | [fix: guard os.killpg/getpgid with hasattr for Windows c](https://github.com/mvanhorn/last30days-skill/pull/624) | `2026-06-25` |
 | **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** | [fix: add exit 0 to check-config.sh to prevent hook erro](https://github.com/mvanhorn/last30days-skill/pull/623) | `2026-06-25` |
 | **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** | [fix: make pre-research warning runtime-agnostic](https://github.com/mvanhorn/last30days-skill/pull/620) | `2026-06-25` |
@@ -85,9 +86,8 @@ $ ls colaboraciones/ --open-source
 | **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** | [examples: add 6 new survivors + platform-native referen](https://github.com/DietrichGebert/ponytail/pull/109) | `2026-06-18` |
 | **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** | [docs: add Spanish (LATAM) translation — README.es.md](https://github.com/DietrichGebert/ponytail/pull/110) | `2026-06-18` |
 | **[fathah/hermes-desktop](https://github.com/fathah/hermes-desktop)** | [fix: model picker in chat no longer overwrites the glob](https://github.com/fathah/hermes-desktop/pull/713) | `2026-06-17` |
-| **[fathah/hermes-desktop](https://github.com/fathah/hermes-desktop)** | [i18n(es-LATAM): sync Spanish translation with latest RE](https://github.com/fathah/hermes-desktop/pull/671) | `2026-06-17` |
 
-<sub>🤖 Auto-actualizado: 2026-06-29 10:23 UTC</sub>
+<sub>🤖 Auto-actualizado: 2026-07-06 09:56 UTC</sub>
 <!-- COLLAB-END -->
 
 ---
