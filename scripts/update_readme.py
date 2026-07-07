@@ -48,7 +48,8 @@ def get_collaborations():
             'per_page': 10
         }
     )
-    return r.json().get('items', [])
+    data = r.json()
+    return data.get('items', []), data.get('total_count', 0)
 
 
 def build_repos_table(repos):
@@ -68,20 +69,30 @@ def build_repos_table(repos):
     return '\n'.join(rows)
 
 
+def get_repo_stars(repo_name):
+    r = requests.get(f'https://api.github.com/repos/{repo_name}', headers=HEADERS)
+    return r.json().get('stargazers_count', 0)
+
+
+def fmt_stars(n):
+    return f'{n / 1000:.1f}K'.replace('.0K', 'K') if n >= 1000 else str(n)
+
+
 def build_collabs_table(items):
     if not items:
         return '_Sin colaboraciones externas mergeadas aún._'
     rows = [
-        '| Repositorio Externo | Pull Request | Merged |',
-        '|---------------------|--------------|--------|',
+        '| Repositorio Externo | ⭐ | Pull Request | Merged |',
+        '|---------------------|----|--------------|--------|',
     ]
     for item in items[:8]:
         pr_title = item['title'][:55]
         pr_url = item['html_url']
         repo_name = item['repository_url'].replace('https://api.github.com/repos/', '')
         repo_url = f'https://github.com/{repo_name}'
+        stars = fmt_stars(get_repo_stars(repo_name))
         merged = (item.get('closed_at') or '—')[:10]
-        rows.append(f'| **[{repo_name}]({repo_url})** | [{pr_title}]({pr_url}) | `{merged}` |')
+        rows.append(f'| **[{repo_name}]({repo_url})** | {stars} | [{pr_title}]({pr_url}) | `{merged}` |')
     return '\n'.join(rows)
 
 
@@ -107,14 +118,21 @@ if __name__ == '__main__':
     print(f'  {len(repos)} repos encontrados')
 
     print('→ Obteniendo colaboraciones externas...')
-    collabs = get_collaborations()
-    print(f'  {len(collabs)} PRs mergeados en repos externos')
+    collabs, pr_total = get_collaborations()
+    print(f'  {pr_total} PRs mergeados en repos externos')
 
     with open('README.md', 'r', encoding='utf-8') as f:
         content = f.read()
 
     content = inject(content, 'REPOS', build_repos_table(repos))
     content = inject(content, 'COLLAB', build_collabs_table(collabs))
+    badge = f'https://img.shields.io/badge/🦈_PRs_mergeados_open_source-{pr_total}-7c3aed?style=for-the-badge'
+    content = re.sub(
+        r'<!-- PRBADGE-START -->.*?<!-- PRBADGE-END -->',
+        f'<!-- PRBADGE-START -->[![PRs mergeados]({badge})](#-colaboraciones)<!-- PRBADGE-END -->',
+        content,
+        flags=re.DOTALL
+    )
 
     with open('README.md', 'w', encoding='utf-8') as f:
         f.write(content)

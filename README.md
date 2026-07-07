@@ -1,8 +1,12 @@
 <div align="center">
 
+<img src="assets/hero.gif" width="100%"/>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0d0d28,7c3aed,06b6d4&height=200&section=header&text=NANOBOY&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Jesús%20Cornelio%20·%20Puerto%20Rico%20%2F%20LATAM&descSize=18&descColor=06b6d4&descAlignY=62" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=800&color=7C3AED&center=true&vCenter=true&width=720&lines=Arquitecto+de+Sistemas+IA;Certified+MCP+Engineer;Hyperfocus+%E2%86%92+Ejecuci%C3%B3n+Absoluta;Soberan%C3%ADa+Digital+o+Nada;Si+no+existe+y+lo+necesito+%E2%86%92+lo+construyo)](https://github.com/365diascollaboration-prog)
+
+<!-- PRBADGE-START -->[![PRs mergeados](https://img.shields.io/badge/🦈_PRs_mergeados_open_source-13-7c3aed?style=for-the-badge)](#-colaboraciones)<!-- PRBADGE-END -->
 
 </div>
 
@@ -39,6 +43,44 @@ $ cat manifiesto.txt
 
 ---
 
+<a name="-colaboraciones"></a>
+```bash
+$ ls colaboraciones/ --open-source
+```
+
+<!-- COLLAB-START -->
+| Repositorio Externo | ⭐ | Pull Request | Merged |
+|---------------------|----|--------------|--------|
+| **[iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi)** | — | [feat(i18n): add complete Spanish (es-ES) translation — ](https://github.com/iOfficeAI/AionUi/pull/3402) | `2026-07-02` |
+| **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** | — | [fix: guard os.killpg/getpgid with hasattr for Windows c](https://github.com/mvanhorn/last30days-skill/pull/624) | `2026-06-25` |
+| **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** | — | [fix: add exit 0 to check-config.sh to prevent hook erro](https://github.com/mvanhorn/last30days-skill/pull/623) | `2026-06-25` |
+| **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** | — | [fix: make pre-research warning runtime-agnostic](https://github.com/mvanhorn/last30days-skill/pull/620) | `2026-06-25` |
+| **[vectorize-io/hindsight](https://github.com/vectorize-io/hindsight)** | — | [fix(claude-code): use realpath for directoryBankMap sym](https://github.com/vectorize-io/hindsight/pull/2324) | `2026-06-23` |
+| **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** | — | [examples: add 6 new survivors + platform-native referen](https://github.com/DietrichGebert/ponytail/pull/109) | `2026-06-18` |
+| **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** | — | [docs: add Spanish (LATAM) translation — README.es.md](https://github.com/DietrichGebert/ponytail/pull/110) | `2026-06-18` |
+| **[fathah/hermes-desktop](https://github.com/fathah/hermes-desktop)** | — | [fix: model picker in chat no longer overwrites the glob](https://github.com/fathah/hermes-desktop/pull/713) | `2026-06-17` |
+
+<sub>🤖 Auto-actualizado: 2026-07-06 09:56 UTC — la columna ⭐ muestra las estrellas del repo externo donde se mergeó tu PR</sub>
+<!-- COLLAB-END -->
+
+---
+
+```bash
+$ ./flagship --run
+```
+
+<div align="center">
+
+### 🚀 [ig-latam-mcp](https://github.com/365diascollaboration-prog/ig-latam-mcp)
+
+**Controla Instagram desde Claude Code.** MCP de automatización y crecimiento para creadores LATAM — gratuito, open source, 100% Graph API oficial.
+
+[![Ver demo](https://img.youtube.com/vi/ByvEuD-wVQQ/maxresdefault.jpg)](https://youtu.be/ByvEuD-wVQQ)
+
+</div>
+
+---
+
 ```bash
 $ ls stack/ --power
 ```
@@ -64,31 +106,9 @@ $ ls repos/ --arquitecturas
 | **[ig-latam-mcp](https://github.com/365diascollaboration-prog/ig-latam-mcp)** | `🐍 Python` | 0 | — |
 | **[365-studio](https://github.com/365diascollaboration-prog/365-studio)** | `🌐 HTML` | 1 | — |
 | **[recuperador-archivos](https://github.com/365diascollaboration-prog/recuperador-archivos)** | `🐍 Python` | 1 | Herramientas gratuitas para recuperar archivos borrados del  |
-| **[nano-huggingface](https://github.com/365diascollaboration-prog/nano-huggingface)** | `📦 —` | 1 | — |
 
 <sub>🤖 Auto-actualizado: 2026-07-06 09:56 UTC</sub>
 <!-- REPOS-END -->
-
----
-
-```bash
-$ ls colaboraciones/ --open-source
-```
-
-<!-- COLLAB-START -->
-| Repositorio Externo | Pull Request | Merged |
-|---------------------|--------------|--------|
-| **[iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi)** | [feat(i18n): add complete Spanish (es-ES) translation — ](https://github.com/iOfficeAI/AionUi/pull/3402) | `2026-07-02` |
-| **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** | [fix: guard os.killpg/getpgid with hasattr for Windows c](https://github.com/mvanhorn/last30days-skill/pull/624) | `2026-06-25` |
-| **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** | [fix: add exit 0 to check-config.sh to prevent hook erro](https://github.com/mvanhorn/last30days-skill/pull/623) | `2026-06-25` |
-| **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** | [fix: make pre-research warning runtime-agnostic](https://github.com/mvanhorn/last30days-skill/pull/620) | `2026-06-25` |
-| **[vectorize-io/hindsight](https://github.com/vectorize-io/hindsight)** | [fix(claude-code): use realpath for directoryBankMap sym](https://github.com/vectorize-io/hindsight/pull/2324) | `2026-06-23` |
-| **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** | [examples: add 6 new survivors + platform-native referen](https://github.com/DietrichGebert/ponytail/pull/109) | `2026-06-18` |
-| **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** | [docs: add Spanish (LATAM) translation — README.es.md](https://github.com/DietrichGebert/ponytail/pull/110) | `2026-06-18` |
-| **[fathah/hermes-desktop](https://github.com/fathah/hermes-desktop)** | [fix: model picker in chat no longer overwrites the glob](https://github.com/fathah/hermes-desktop/pull/713) | `2026-06-17` |
-
-<sub>🤖 Auto-actualizado: 2026-07-06 09:56 UTC</sub>
-<!-- COLLAB-END -->
 
 ---
 
