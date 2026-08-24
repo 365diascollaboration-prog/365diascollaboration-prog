@@ -51,16 +51,16 @@ $ ls colaboraciones/ --open-source
 <!-- COLLAB-START -->
 | Repositorio Externo | ⭐ | Pull Request | Merged |
 |---------------------|----|--------------|--------|
-| **[iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi)** | 32K | [feat(i18n): add complete Spanish (es-ES) translation — ](https://github.com/iOfficeAI/AionUi/pull/3402) | `2026-07-02` |
-| **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** | 58.4K | [fix: guard os.killpg/getpgid with hasattr for Windows c](https://github.com/mvanhorn/last30days-skill/pull/624) | `2026-06-25` |
-| **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** | 58.4K | [fix: add exit 0 to check-config.sh to prevent hook erro](https://github.com/mvanhorn/last30days-skill/pull/623) | `2026-06-25` |
-| **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** | 58.4K | [fix: make pre-research warning runtime-agnostic](https://github.com/mvanhorn/last30days-skill/pull/620) | `2026-06-25` |
-| **[vectorize-io/hindsight](https://github.com/vectorize-io/hindsight)** | 20.1K | [fix(claude-code): use realpath for directoryBankMap sym](https://github.com/vectorize-io/hindsight/pull/2324) | `2026-06-23` |
-| **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** | 104.3K | [examples: add 6 new survivors + platform-native referen](https://github.com/DietrichGebert/ponytail/pull/109) | `2026-06-18` |
-| **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** | 104.3K | [docs: add Spanish (LATAM) translation — README.es.md](https://github.com/DietrichGebert/ponytail/pull/110) | `2026-06-18` |
-| **[fathah/hermes-desktop](https://github.com/fathah/hermes-desktop)** | 13.9K | [fix: model picker in chat no longer overwrites the glob](https://github.com/fathah/hermes-desktop/pull/713) | `2026-06-17` |
+| **[iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi)** | 32.2K | [feat(i18n): add complete Spanish (es-ES) translation — ](https://github.com/iOfficeAI/AionUi/pull/3402) | `2026-07-02` |
+| **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** | 59.1K | [fix: guard os.killpg/getpgid with hasattr for Windows c](https://github.com/mvanhorn/last30days-skill/pull/624) | `2026-06-25` |
+| **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** | 59.1K | [fix: add exit 0 to check-config.sh to prevent hook erro](https://github.com/mvanhorn/last30days-skill/pull/623) | `2026-06-25` |
+| **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** | 59.1K | [fix: make pre-research warning runtime-agnostic](https://github.com/mvanhorn/last30days-skill/pull/620) | `2026-06-25` |
+| **[vectorize-io/hindsight](https://github.com/vectorize-io/hindsight)** | 21K | [fix(claude-code): use realpath for directoryBankMap sym](https://github.com/vectorize-io/hindsight/pull/2324) | `2026-06-23` |
+| **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** | 109K | [examples: add 6 new survivors + platform-native referen](https://github.com/DietrichGebert/ponytail/pull/109) | `2026-06-18` |
+| **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** | 109K | [docs: add Spanish (LATAM) translation — README.es.md](https://github.com/DietrichGebert/ponytail/pull/110) | `2026-06-18` |
+| **[fathah/hermes-desktop](https://github.com/fathah/hermes-desktop)** | 14K | [fix: model picker in chat no longer overwrites the glob](https://github.com/fathah/hermes-desktop/pull/713) | `2026-06-17` |
 
-<sub>🤖 Auto-actualizado: 2026-08-17 06:33 UTC</sub>
+<sub>🤖 Auto-actualizado: 2026-08-24 06:37 UTC</sub>
 <!-- COLLAB-END -->
 
 ---
@@ -102,14 +102,15 @@ $ ls repos/ --arquitecturas
 <!-- REPOS-START -->
 | Proyecto | Stack | ⭐ | Descripción |
 |----------|-------|----|-------------|
-| **[jackson-construction-web](https://github.com/365diascollaboration-prog/jackson-construction-web)** | `🌐 HTML` | 0 | — |
+| **[codeman](https://github.com/365diascollaboration-prog/codeman)** | `💙 TypeScript` | 0 | — |
 | **[gerent365-mcp](https://github.com/365diascollaboration-prog/gerent365-mcp)** | `💙 TypeScript` | 1 | 🤖 MCP (Model Context Protocol) para Gerent365 — Controla tu  |
+| **[jackson-construction-web](https://github.com/365diascollaboration-prog/jackson-construction-web)** | `🌐 HTML` | 0 | — |
 | **[recuperador-archivos](https://github.com/365diascollaboration-prog/recuperador-archivos)** | `🐍 Python` | 1 | Herramientas gratuitas para recuperar archivos borrados del  |
 | **[nanotech-agents](https://github.com/365diascollaboration-prog/nanotech-agents)** | `📦 —` | 1 | Ultra-powerful AI agents built from real workflows. Not for  |
 | **[365-studio](https://github.com/365diascollaboration-prog/365-studio)** | `🌐 HTML` | 1 | Estudio de producción de video con IA — de idea a MP4 listo  |
 | **[ig-latam-mcp](https://github.com/365diascollaboration-prog/ig-latam-mcp)** | `🐍 Python` | 0 | MCP para automatizar y crecer en Instagram desde Claude Code |
 
-<sub>🤖 Auto-actualizado: 2026-08-17 06:33 UTC</sub>
+<sub>🤖 Auto-actualizado: 2026-08-24 06:37 UTC</sub>
 <!-- REPOS-END -->
 
 ---
