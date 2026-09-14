@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=800&color=7C3AED&center=true&vCenter=true&width=720&lines=Arquitecto+de+Sistemas+IA;Certified+MCP+Engineer;Hyperfocus+%E2%86%92+Ejecuci%C3%B3n+Absoluta;Soberan%C3%ADa+Digital+o+Nada;Si+no+existe+y+lo+necesito+%E2%86%92+lo+construyo)](https://github.com/365diascollaboration-prog)
 
-<!-- PRBADGE-START -->[![PRs mergeados](https://img.shields.io/badge/🦈_PRs_mergeados_open_source-13-7c3aed?style=for-the-badge)](#-colaboraciones)<!-- PRBADGE-END -->
+<!-- PRBADGE-START -->[![PRs mergeados](https://img.shields.io/badge/🦈_PRs_mergeados_open_source-14-7c3aed?style=for-the-badge)](#-colaboraciones)<!-- PRBADGE-END -->
 
 </div>
 
@@ -51,16 +51,16 @@ $ ls colaboraciones/ --open-source
 <!-- COLLAB-START -->
 | Repositorio Externo | ⭐ | Pull Request | Merged |
 |---------------------|----|--------------|--------|
-| **[iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi)** | 32.6K | [feat(i18n): add complete Spanish (es-ES) translation — ](https://github.com/iOfficeAI/AionUi/pull/3402) | `2026-07-02` |
-| **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** | 61.5K | [fix: guard os.killpg/getpgid with hasattr for Windows c](https://github.com/mvanhorn/last30days-skill/pull/624) | `2026-06-25` |
-| **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** | 61.5K | [fix: add exit 0 to check-config.sh to prevent hook erro](https://github.com/mvanhorn/last30days-skill/pull/623) | `2026-06-25` |
-| **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** | 61.5K | [fix: make pre-research warning runtime-agnostic](https://github.com/mvanhorn/last30days-skill/pull/620) | `2026-06-25` |
-| **[vectorize-io/hindsight](https://github.com/vectorize-io/hindsight)** | 23.1K | [fix(claude-code): use realpath for directoryBankMap sym](https://github.com/vectorize-io/hindsight/pull/2324) | `2026-06-23` |
-| **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** | 130.3K | [examples: add 6 new survivors + platform-native referen](https://github.com/DietrichGebert/ponytail/pull/109) | `2026-06-18` |
-| **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** | 130.3K | [docs: add Spanish (LATAM) translation — README.es.md](https://github.com/DietrichGebert/ponytail/pull/110) | `2026-06-18` |
-| **[fathah/hermes-desktop](https://github.com/fathah/hermes-desktop)** | 14.2K | [fix: model picker in chat no longer overwrites the glob](https://github.com/fathah/hermes-desktop/pull/713) | `2026-06-17` |
+| **[fathah/hermes-desktop](https://github.com/fathah/hermes-desktop)** | 14.2K | [fix(config-health): recognize per-label custom provider](https://github.com/fathah/hermes-desktop/pull/851) | `2026-09-14` |
+| **[iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi)** | 32.8K | [feat(i18n): add complete Spanish (es-ES) translation — ](https://github.com/iOfficeAI/AionUi/pull/3402) | `2026-07-02` |
+| **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** | 62K | [fix: guard os.killpg/getpgid with hasattr for Windows c](https://github.com/mvanhorn/last30days-skill/pull/624) | `2026-06-25` |
+| **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** | 62K | [fix: add exit 0 to check-config.sh to prevent hook erro](https://github.com/mvanhorn/last30days-skill/pull/623) | `2026-06-25` |
+| **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** | 62K | [fix: make pre-research warning runtime-agnostic](https://github.com/mvanhorn/last30days-skill/pull/620) | `2026-06-25` |
+| **[vectorize-io/hindsight](https://github.com/vectorize-io/hindsight)** | 23.6K | [fix(claude-code): use realpath for directoryBankMap sym](https://github.com/vectorize-io/hindsight/pull/2324) | `2026-06-23` |
+| **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** | 137.8K | [examples: add 6 new survivors + platform-native referen](https://github.com/DietrichGebert/ponytail/pull/109) | `2026-06-18` |
+| **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** | 137.8K | [docs: add Spanish (LATAM) translation — README.es.md](https://github.com/DietrichGebert/ponytail/pull/110) | `2026-06-18` |
 
-<sub>🤖 Auto-actualizado: 2026-09-07 11:03 UTC</sub>
+<sub>🤖 Auto-actualizado: 2026-09-14 11:16 UTC</sub>
 <!-- COLLAB-END -->
 
 ---
@@ -110,7 +110,7 @@ $ ls repos/ --arquitecturas
 | **[365-studio](https://github.com/365diascollaboration-prog/365-studio)** | `🌐 HTML` | 1 | Estudio de producción de video con IA — de idea a MP4 listo  |
 | **[ig-latam-mcp](https://github.com/365diascollaboration-prog/ig-latam-mcp)** | `🐍 Python` | 0 | MCP para automatizar y crecer en Instagram desde Claude Code |
 
-<sub>🤖 Auto-actualizado: 2026-09-07 11:03 UTC</sub>
+<sub>🤖 Auto-actualizado: 2026-09-14 11:16 UTC</sub>
 <!-- REPOS-END -->
 
 ---
