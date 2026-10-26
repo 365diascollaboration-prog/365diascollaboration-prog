@@ -51,16 +51,16 @@ $ ls colaboraciones/ --open-source
 <!-- COLLAB-START -->
 | Repositorio Externo | ⭐ | Pull Request | Merged |
 |---------------------|----|--------------|--------|
-| **[fathah/hermes-desktop](https://github.com/fathah/hermes-desktop)** | 14.4K | [fix(config-health): recognize per-label custom provider](https://github.com/fathah/hermes-desktop/pull/851) | `2026-09-14` |
-| **[iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi)** | 33.6K | [feat(i18n): add complete Spanish (es-ES) translation — ](https://github.com/iOfficeAI/AionUi/pull/3402) | `2026-07-02` |
-| **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** | 64.7K | [fix: guard os.killpg/getpgid with hasattr for Windows c](https://github.com/mvanhorn/last30days-skill/pull/624) | `2026-06-25` |
-| **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** | 64.7K | [fix: add exit 0 to check-config.sh to prevent hook erro](https://github.com/mvanhorn/last30days-skill/pull/623) | `2026-06-25` |
-| **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** | 64.7K | [fix: make pre-research warning runtime-agnostic](https://github.com/mvanhorn/last30days-skill/pull/620) | `2026-06-25` |
-| **[vectorize-io/hindsight](https://github.com/vectorize-io/hindsight)** | 51.5K | [fix(claude-code): use realpath for directoryBankMap sym](https://github.com/vectorize-io/hindsight/pull/2324) | `2026-06-23` |
-| **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** | 167.5K | [examples: add 6 new survivors + platform-native referen](https://github.com/DietrichGebert/ponytail/pull/109) | `2026-06-18` |
-| **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** | 167.5K | [docs: add Spanish (LATAM) translation — README.es.md](https://github.com/DietrichGebert/ponytail/pull/110) | `2026-06-18` |
+| **[fathah/hermes-desktop](https://github.com/fathah/hermes-desktop)** | 14.5K | [fix(config-health): recognize per-label custom provider](https://github.com/fathah/hermes-desktop/pull/851) | `2026-09-14` |
+| **[iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi)** | 33.8K | [feat(i18n): add complete Spanish (es-ES) translation — ](https://github.com/iOfficeAI/AionUi/pull/3402) | `2026-07-02` |
+| **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** | 65.5K | [fix: guard os.killpg/getpgid with hasattr for Windows c](https://github.com/mvanhorn/last30days-skill/pull/624) | `2026-06-25` |
+| **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** | 65.5K | [fix: add exit 0 to check-config.sh to prevent hook erro](https://github.com/mvanhorn/last30days-skill/pull/623) | `2026-06-25` |
+| **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** | 65.5K | [fix: make pre-research warning runtime-agnostic](https://github.com/mvanhorn/last30days-skill/pull/620) | `2026-06-25` |
+| **[vectorize-io/hindsight](https://github.com/vectorize-io/hindsight)** | 54K | [fix(claude-code): use realpath for directoryBankMap sym](https://github.com/vectorize-io/hindsight/pull/2324) | `2026-06-23` |
+| **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** | 176.6K | [examples: add 6 new survivors + platform-native referen](https://github.com/DietrichGebert/ponytail/pull/109) | `2026-06-18` |
+| **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** | 176.6K | [docs: add Spanish (LATAM) translation — README.es.md](https://github.com/DietrichGebert/ponytail/pull/110) | `2026-06-18` |
 
-<sub>🤖 Auto-actualizado: 2026-10-19 11:35 UTC</sub>
+<sub>🤖 Auto-actualizado: 2026-10-26 11:53 UTC</sub>
 <!-- COLLAB-END -->
 
 ---
@@ -102,6 +102,7 @@ $ ls repos/ --arquitecturas
 <!-- REPOS-START -->
 | Proyecto | Stack | ⭐ | Descripción |
 |----------|-------|----|-------------|
+| **[ming-studio](https://github.com/365diascollaboration-prog/ming-studio)** | `🐍 Python` | 0 | Estudio de arte con IA local: pegas tu key de OpenRouter y l |
 | **[cima1037-web](https://github.com/365diascollaboration-prog/cima1037-web)** | `🌐 HTML` | 0 | Cima 103.7 FM — La Mundial Cadena Cima · Sitio web oficial.  |
 | **[codeman](https://github.com/365diascollaboration-prog/codeman)** | `💙 TypeScript` | 0 | — |
 | **[gerent365-mcp](https://github.com/365diascollaboration-prog/gerent365-mcp)** | `💙 TypeScript` | 1 | 🤖 MCP (Model Context Protocol) para Gerent365 — Controla tu  |
@@ -109,9 +110,8 @@ $ ls repos/ --arquitecturas
 | **[recuperador-archivos](https://github.com/365diascollaboration-prog/recuperador-archivos)** | `🐍 Python` | 1 | Herramientas gratuitas para recuperar archivos borrados del  |
 | **[nanotech-agents](https://github.com/365diascollaboration-prog/nanotech-agents)** | `📦 —` | 1 | Ultra-powerful AI agents built from real workflows. Not for  |
 | **[365-studio](https://github.com/365diascollaboration-prog/365-studio)** | `🌐 HTML` | 1 | Estudio de producción de video con IA — de idea a MP4 listo  |
-| **[ig-latam-mcp](https://github.com/365diascollaboration-prog/ig-latam-mcp)** | `🐍 Python` | 0 | MCP para automatizar y crecer en Instagram desde Claude Code |
 
-<sub>🤖 Auto-actualizado: 2026-10-19 11:35 UTC</sub>
+<sub>🤖 Auto-actualizado: 2026-10-26 11:53 UTC</sub>
 <!-- REPOS-END -->
 
 ---
