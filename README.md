@@ -52,15 +52,15 @@ $ ls colaboraciones/ --open-source
 | Repositorio Externo | ⭐ | Pull Request | Merged |
 |---------------------|----|--------------|--------|
 | **[fathah/hermes-desktop](https://github.com/fathah/hermes-desktop)** | 14.6K | [fix(config-health): recognize per-label custom provider](https://github.com/fathah/hermes-desktop/pull/851) | `2026-09-14` |
-| **[iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi)** | 34.3K | [feat(i18n): add complete Spanish (es-ES) translation — ](https://github.com/iOfficeAI/AionUi/pull/3402) | `2026-07-02` |
-| **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** | 67.9K | [fix: guard os.killpg/getpgid with hasattr for Windows c](https://github.com/mvanhorn/last30days-skill/pull/624) | `2026-06-25` |
-| **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** | 67.9K | [fix: add exit 0 to check-config.sh to prevent hook erro](https://github.com/mvanhorn/last30days-skill/pull/623) | `2026-06-25` |
-| **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** | 67.9K | [fix: make pre-research warning runtime-agnostic](https://github.com/mvanhorn/last30days-skill/pull/620) | `2026-06-25` |
-| **[vectorize-io/hindsight](https://github.com/vectorize-io/hindsight)** | 61.4K | [fix(claude-code): use realpath for directoryBankMap sym](https://github.com/vectorize-io/hindsight/pull/2324) | `2026-06-23` |
-| **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** | 191.9K | [examples: add 6 new survivors + platform-native referen](https://github.com/DietrichGebert/ponytail/pull/109) | `2026-06-18` |
-| **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** | 191.9K | [docs: add Spanish (LATAM) translation — README.es.md](https://github.com/DietrichGebert/ponytail/pull/110) | `2026-06-18` |
+| **[iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi)** | 34.5K | [feat(i18n): add complete Spanish (es-ES) translation — ](https://github.com/iOfficeAI/AionUi/pull/3402) | `2026-07-02` |
+| **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** | 73.3K | [fix: guard os.killpg/getpgid with hasattr for Windows c](https://github.com/mvanhorn/last30days-skill/pull/624) | `2026-06-25` |
+| **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** | 73.3K | [fix: add exit 0 to check-config.sh to prevent hook erro](https://github.com/mvanhorn/last30days-skill/pull/623) | `2026-06-25` |
+| **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** | 73.3K | [fix: make pre-research warning runtime-agnostic](https://github.com/mvanhorn/last30days-skill/pull/620) | `2026-06-25` |
+| **[vectorize-io/hindsight](https://github.com/vectorize-io/hindsight)** | 62.9K | [fix(claude-code): use realpath for directoryBankMap sym](https://github.com/vectorize-io/hindsight/pull/2324) | `2026-06-23` |
+| **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** | 197.4K | [examples: add 6 new survivors + platform-native referen](https://github.com/DietrichGebert/ponytail/pull/109) | `2026-06-18` |
+| **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** | 197.4K | [docs: add Spanish (LATAM) translation — README.es.md](https://github.com/DietrichGebert/ponytail/pull/110) | `2026-06-18` |
 
-<sub>🤖 Auto-actualizado: 2026-11-16 14:18 UTC</sub>
+<sub>🤖 Auto-actualizado: 2026-11-23 16:52 UTC</sub>
 <!-- COLLAB-END -->
 
 ---
@@ -111,7 +111,7 @@ $ ls repos/ --arquitecturas
 | **[recuperador-archivos](https://github.com/365diascollaboration-prog/recuperador-archivos)** | `🐍 Python` | 1 | Herramientas gratuitas para recuperar archivos borrados del  |
 | **[365-studio](https://github.com/365diascollaboration-prog/365-studio)** | `🌐 HTML` | 1 | Estudio de producción de video con IA — de idea a MP4 listo  |
 
-<sub>🤖 Auto-actualizado: 2026-11-16 14:18 UTC</sub>
+<sub>🤖 Auto-actualizado: 2026-11-23 16:52 UTC</sub>
 <!-- REPOS-END -->
 
 ---
